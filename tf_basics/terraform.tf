@@ -6,5 +6,5 @@ terraform {
     }
   }
 
-  required_version = ">= 6.43"
+  required_version = ">=1.2"
 }
