@@ -5,7 +5,7 @@ provider "aws" {
 }
 
 resource "aws_instance" "tfDemo" {
-  ami = "ami-099b5eec69f378993"
+  ami           = "ami-099b5eec69f378993"
   instance_type = "t3.medium"
 
   tags = {
