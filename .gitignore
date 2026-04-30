@@ -1,0 +1,3 @@
+#Add unneccessary files 
+/tf_basics/.terraform
+.terraform.lock.hcl
